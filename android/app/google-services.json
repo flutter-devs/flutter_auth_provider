@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102116086862",
+    "project_id": "test-4bfaa",
+    "storage_bucket": "test-4bfaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102116086862:android:c598e9abfa0a94d2ad9f1f",
+        "android_client_info": {
+          "package_name": "com.aeologic.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102116086862-7u1nvc1749vvktubdsdlsjh94s8b32qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QPs9ObaTYZADL4HVYxyiKKFptUOxaWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102116086862-7u1nvc1749vvktubdsdlsjh94s8b32qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
